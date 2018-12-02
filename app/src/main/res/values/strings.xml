@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">What\'s The Score?</string>
+    <string name="teamA">Team A</string>
+    <string name="teamAScore">0</string>
+    <string name="teamB">Team B</string>
+    <string name="teamBScore">0</string>
+    <string name="touchdown">Touchdown!</string>
+    <string name="fieldGoal">Field Goal</string>
+    <string name="safety">Safety</string>
+    <string name="twoPoints">Two Points</string>
+    <string name="extraPoint">Extra Point</string>
+    <string name="reset">Reset</string>
+</resources>
